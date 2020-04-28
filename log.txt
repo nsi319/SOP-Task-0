@@ -1,1 +1,9 @@
+Commands used:
+
+1. cd- to change directories to arrive at destination
+2. git branch - to create a new branch 
+3. git checkout - tow switch branches
+4. git add - to add a file to the branch
+5. git commit -m "message" - to commit the file
+6. git merge - to merge the branches
 
