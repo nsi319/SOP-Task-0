@@ -1,0 +1,29 @@
+git clone <repo-link>
+(helps to access a repo from github in local directory)
+
+git add *
+(adds all the file to the staging area) 
+git commit -m "added log"
+(commits all the files from the staging area to the master branch ,with a commit message)
+git push origin master:abishek_arjun
+(pushes local changes from master(local branch) to the abishek_arjun(remote branch)  from master)
+
+git branch b1
+git branch b2
+
+(used to create a branch b1 and b2 derieved from master)
+
+git checkout b1
+(moves to branch name)
+git add answer.txt
+git commit -m "added answer"
+
+git checkout b2
+git add answer.txt
+git commit -m "added explanation"
+
+git checkout b1
+git merge b2
+(merges branch 2 into branch 1)
+git add answer.txt
+git commit -m "merge conflicts resolved"
