@@ -1,5 +1,5 @@
 cd destop - changing directory to desktop
-git clone https://github.com/nsi319/SOP-Task-0.git - cloning or downloading the files in the repository into my system
+git clone https://github.com/RKKgithub/SOP-Task-0.git - cloning or downloading the files in the repository into my system
 cd SOP-Task-0/ - changing directory to newly cloned file
 git checkout -b Rohith_Krishnakumar - switching to newly created branch
 creating log.txt in file
