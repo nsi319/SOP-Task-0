@@ -1,0 +1,7 @@
+Forked and cloned the Git hub repo to my local system.
+Created a branch named srikanth_k.
+In this new branch created a file named log.txt.
+Created two new branches explanation, one_word_ans.
+In one word answer given the answer.
+In explanation Given explanation to my answer.
+Merged two branches into master.
