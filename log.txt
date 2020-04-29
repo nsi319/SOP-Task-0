@@ -1,0 +1,19 @@
+Git commands used:
+git clone  
+   Used to clone the remote forked repo to local repo
+git branch 
+    Used to create branches as specified
+git branch -a
+    Used to see the list of all branches created
+git merge
+    Used to merge two branches together
+git commit
+    Used to commit changes
+git checkout
+    Used to switch to an alternate branch
+touch filename.extension
+    Used to create a new file
+git mv old_filename new_filename
+    Used to rename a file
+git push
+    Used to push changes to remote repo
