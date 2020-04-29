@@ -17,3 +17,5 @@ git mv old_filename new_filename
     Used to rename a file
 git push
     Used to push changes to remote repo
+git add
+    Used to add the modified changes to staging area
