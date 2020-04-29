@@ -1,0 +1,18 @@
+cd destop - changing directory to desktop
+git clone https://github.com/nsi319/SOP-Task-0.git - cloning or downloading the files in the repository into my system
+cd SOP-Task-0/ - changing directory to newly cloned file
+git checkout -b Rohith_Krishnakumar - switching to newly created branch
+creating log.txt in file
+git status - checking the current status of the file(untracked file log.txt)
+git add . - tracking log.txt also
+git commit filename.extension -m "commit message" - commit changes 
+git checkout -b branchname - twice for creating 2 branches from first_last
+creating one file in each in each branch named name _answer and name_answer
+git add . - to track the newly created files
+git switch first_last
+git merge answerBranch - merging
+git merge explanationBranch - try to merge explanation
+conflict
+resolve conflicts by changing name
+git add . to track newly named file
+git merge explanationBranch
