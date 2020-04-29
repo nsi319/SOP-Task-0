@@ -12,5 +12,6 @@
 11.This causes a conflict since after merging first file the main branch already contains a different answers.txt
     this is resolved manually by removing the less than and greater signs and formatting the file a little
 12.then this file is added and commited(6) and conflict is resolved
+13.the 2 merged branches are deleted using git branch -d answer.txt 
 
 
