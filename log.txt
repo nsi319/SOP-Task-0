@@ -1,3 +1,4 @@
+
 1. To clone repository: use git clone https://github.com/vivekaruuu/SOP-Task-0.git
 2. To select directory: use cd "SOP-Task-0/"
 3. To create and select branch: use git checkout -b Vivek_arunachalam
@@ -13,5 +14,8 @@
     this is resolved manually by removing the less than and greater signs and formatting the file a little
 12.then this file is added and commited(6) and conflict is resolved
 13.the 2 merged branches are deleted using git branch -d answer.txt 
+14.recent changes are pulled using git pull
+15.to push code to repository :git push origin Vivek_Arunachalam
+16.changes to log file added and committed
 
 
