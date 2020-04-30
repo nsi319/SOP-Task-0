@@ -1,2 +1,1 @@
-# SOP-Task-0
-Hello, Welcome to Spider Orientation Program. Fork this repository and do your tasks on that. Happy Coding :)
+ species evolve over time, and thus that chickens had ancestors that were not chickens.thus chicken is a product of evolution.a species eventualy became a chicken and after that chicken gives egg.
