@@ -1,0 +1,26 @@
+$git clone <url> 
+used to clone the repo into my computer
+
+$git checkout -b <>
+used to make and change to branch name
+
+$git checkout -b <>
+made and changed to second branch
+
+$git add . 
+used to add everything
+
+$git status
+shows the current status of the files added
+
+$git commit -m '<Message>' 
+used to commit
+
+$git merge <>
+used to merge branches to the current branch
+
+$git push origin <>
+pushed the things to the repository
+
+$git pull <url>
+used to pull the recent most repo
