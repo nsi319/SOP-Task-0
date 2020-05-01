@@ -1,0 +1,19 @@
+This text file contains all the commands that I used to do the task 
+
+1.Fork the repo file from my Mentor's profile.
+2.Clone the repo file in the command line.[git clone (url)]
+3.Created a new branch.[git brach firstname_lastname]
+4.Moved to the created branch from the default branch.[git checkout firstname_lastname]
+5.Created a text file(going by the name log) in the new branch.[touch log.txt]
+6.Write down the commands on the created text file.
+7.Stage the created text file.[add log.txt]
+8.Commit the text file. [commit -m (with a message)]
+9.Now create a newbranch[git branch (branchname)] and create a text file in the branch[touch (filename).txt]
+10.Wrie the answer for the question, then add[git add (filename).txt] and then commit[git commit -m "message"].
+11.Create another new branch[git branch (branchname)] and checkout to that branch[git checkout (branchname)]
+12.Write the explanation for the question in the text file created above and add and commit[follow the above process].
+13.Now checkout to the answer's branch[git checkout (branchname)] and then merge the explanation's branch with the answer's branch[git merge (branch to be merged with)].
+14.Push the git branches back to your repo and give pull request to mentor.[git push (URL branch)]
+
+PS: Content in the square paranthesis are the git commands.
+  
