@@ -1,0 +1,84 @@
+STEPS FOR TASK-0
+			1) Fork the repository of my mentor. Forking a repository allows you to freely experiment with changes without affecting the original project.
+			
+
+			2) Copy the URL from the repository.
+			
+
+			3) Use the clone function to clone it to the local storage.
+			Command: git clone https://github.com/sanjeevmax6/SOP-Task-0.git 
+			CLONE - It is used to clone a repository from a remote storage and make a copy on a local database.
+			
+
+			4) Create a branch with name Sanjeev_Vijayakumar
+			Command: git branch Sanjeev_Vijayakumar
+			BRANCH - this is used to create a new branch
+			
+
+			5) Now the git has to be active with the newly created branch.
+			Command: git checkout Sanjeev_Vijayakumar
+			CHECKOUT: This command is used to switch the header pointing to the branch we specify.
+			
+
+			6) Create a .txt file named "log" and save it in desktop.
+			
+
+			7) Add log.txt file in the branch Sanjeev_Vijayakumar while the gitbash is opened in desktop.
+			Command: git add log.txt
+			Command: git commit -m "processed log"
+			COMMIT - this command will commit the changes made.
+			
+
+			8) Create another branch under Sanjeev_Vijayakumar named answer which will contain the file that has the answer to question.
+			Command: git branch answer
+			
+
+			9) Now make the answer branch active.
+			Command: git checkout answer
+			
+
+			10) Create a new .txt file named "solution" saved in desktop.This text file will have the answer to the question.
+			
+
+			11) Open gitbash in desktop and then add solution.txt 
+			Command: git add solution.txt
+			Command: git commit -m "processed answer solution"
+			
+
+			12) Now go back to make the branch Sanjeev_Vijayakumar active.
+			Command: git checkout Sanjeev_Vijayakumar
+			
+
+			13) Create a new branch for adding the file "reason".
+			Command: git branch reason.
+			
+
+			14) Now make the newly created branch active.
+			Command: git checkout reason
+			
+
+			15) Create a .txt file named "reason" and save it in documents(this is the method i chose to execute)
+			
+
+			16) Open gitbash in documAdd the file in branch reason
+			Command: git add reason
+			Command: git commit -m "processed reason solution"
+			
+
+			17) Now all we need to do is merge the branches "answer" and "reason"
+			
+
+			18) Make branch "answer" active
+			Command: git checkout answer
+			
+
+			19) Now merge them both.
+			Command: git merge reason.
+			
+
+			20) Push file to the repository
+			Command: git push master Sanjeev_Vijayakumar
+			PUSH - It is used to record the updates and changes to the repository.
+			
+
+			21) Pull a request to my mentor in the github website.
