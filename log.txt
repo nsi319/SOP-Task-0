@@ -1,0 +1,16 @@
+pwd:for accessing C:/Desktop
+ cd Desktop/trial/ : for opening the directory
+git init : for making it a local git repository 
+git clone copied url : for downloading the cloned repo 
+git status: to check the status in the current branch
+git branch: to check the branches
+git add "SOP-Task-0": added the task file to master 
+git commit -m "made a branch master" : to commit the master branch
+git branch "vishalraj_V" : To create a branch
+git checkout vishalraj_V : to switch to branch
+git merge branch2 : merged two branches
+git fetch - to sync changes from local to remote repo without changes in working copy
+git pull - to pull the changes made in local and working directory to remote repo
+git push - to make the changes in local repo to sync with remote repo
+git merge <branch> --allow-unrelated-histories : To merge branches with unrelated histories (to master)
+
