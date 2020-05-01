@@ -1,0 +1,8 @@
+git clone https_url - When we clone, the current folder in which we are in automatically becomes a git repository and                            pulls all the code from the remote repository.
+
+git branch - Lists out the available branches and indicates the current branch we are in with the help of a star              preceeding the current branch's name.
+
+git branch branch_name - Creates a branch named " branch_name ".
+
+git checkout branch-name - For switching from current branch to the branch " branch_name ".
+
