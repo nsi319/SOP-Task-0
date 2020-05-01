@@ -12,4 +12,5 @@ git merge branch2 : merged two branches
 git fetch - to sync changes from local to remote repo without changes in working copy
 git pull - to pull the changes made in local and working directory to remote repo
 git push - to make the changes in local repo to sync with remote repo
+git merge <branch> --allow-unrelated-histories : To merge branches with unrelated histories (to master)
 
