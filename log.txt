@@ -1,0 +1,20 @@
+1. git clone <remote repo URL> 
+	- clones the repsitory with the given URL from github to the local system
+2. git branch <branch name> 
+	- creates a new branch in the local repo with the given name
+3. git checkout <branch name> 
+	- takes us to the branch with the given name
+4. touch <file name> 
+	- creates a file with the given name ane extension
+5. git add <name> 
+	- adds the file or directory with the given name to the staging area, waiting to be committed
+6. git add . 
+	- adds all the untracked files and directories to the staging area
+7. git commmit -m <commit message> 
+	- commits the files in the staging area with the given commit message
+8. git status 
+	- gives the status of the untracked files and the files in the staging area
+9. git pull origin master
+	- get the most recent changes merged to the remote repository on the local repo
+10. git push origin <branch name>
+	- pushes changes onto a new branch in the remote repo in GitHub
