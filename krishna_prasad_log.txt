@@ -1,0 +1,20 @@
+Egg
+Actually, egg laying animals existed far before chickens came about as first landed egg is 340 million years ago. so it is better worded as is it the chicken or the chicken egg. Research suggest that the protein essential for the formation of the chicken eggs (ov-17) is only formed in chicken ovaries, without it the chicken egg shell could not be formed. So, without a chicken, you technically can't get a chicken egg. This depends on the nature and definition of a chicken egg in first place. During Reproduction, 2 organism pass along thier genetic information of thier DNA, but the replication of their DNA is never 100% accurate and often produces minor changes for the new organism. This small mutation created thousands og species, but these genetic mutation must occur in the zygote cell. Let say, a proto-chicken, mated with another proto-chicken and bcoz of small genetic mutation, created the first chicken, which grew in an egg. So EGG came first.
+
+
+
+git init- to initiate git repository in the root folder.
+git clone-   to clone the repository from main to local system.
+cd /Chicken-or-Egg-  changing the current working dir to the chicken-or-egg. 
+git branch-  displays all branches and also point out the active branch
+git checkout <branch_name>- it creates another branch automatically and 
+                           git will move you to that branch, off the master.branch.
+gedit <filename>- open a file and you can save changes.
+git add . or git add <filename>- add the file into your current active branch.
+git commit -m <comment>- you can add comment on your created file in teh repository.
+git status- gives informtion about changes you made like created branches , which one
+            is active, which files added to that etc.
+git pull origin name - this command updates the branch name from the repository to local repository
+git push origin name . it will update all the changes made in the branch to the repository.
+git merge - used to merge two branch
+touch filename- used to create file
