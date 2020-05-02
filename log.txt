@@ -1,0 +1,22 @@
+1.git clone (url)
+	Copies the repository from a location via url.
+2.git branch (branch name)
+	To create a new branch.
+3.git checkout
+	To switch to another branch.
+4.git status
+	To know the status of the file.
+5.touch
+	To create a new file.
+6.git add
+	To add Untracked Files to commit.	
+7.git commit -m "message"
+	To commit your staged content as a new commit snapshot.	
+8.git push origin (branch name)
+	To transmit local branch commits to the remote repository branch.
+9.git pull
+	To fetch and merge any commits from the tracking remote branch.
+10.git merge
+	To merge a remote branch into your current branch.
+11.git mv old_filename new_filename
+	To change file names.
