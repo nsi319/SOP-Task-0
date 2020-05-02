@@ -1,0 +1,21 @@
+
+1. To clone repository: use git clone https://github.com/vivekaruuu/SOP-Task-0.git
+2. To select directory: use cd "SOP-Task-0/"
+3. To create and select branch: use git checkout -b Vivek_arunachalam
+5. To create file:use touch log.txt
+6. To add to stage and commit file: git add . and git commit -a -m "log file added"
+7. To create branches  : use git branch answer.txt and git branch answersEXP  
+-these are branches under the Vivek_Arunachalam branch
+8. creating file named answers.txt in answer.txt branch and adding info add and commit(6)
+9. creating file named answers.txt in answersEXP branch and adding info add and commit(6)
+10.merging these to the vivek_Arunachalam branch by going to it first and then using git merge answer.txt
+   and git merge answersEXP
+11.This causes a conflict since after merging first file the main branch already contains a different answers.txt
+    this is resolved manually by removing the less than and greater signs and formatting the file a little
+12.then this file is added and commited(6) and conflict is resolved
+13.the 2 merged branches are deleted using git branch -d answer.txt 
+14.recent changes are pulled using git pull
+15.to push code to repository :git push origin Vivek_Arunachalam
+16.changes to log file added and committed
+
+
